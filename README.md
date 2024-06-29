@@ -7,7 +7,7 @@ Below, you will find a list of notations and commands used.
 
 1) The "capital letter" notation for complex conjugate. For instance, Z is the complex conjugate of z.
 2) The subscript notation used is the variable/unknown followed by a number. For example, z1 is z_1 (i.e. z with subscript 1), Z2 is Z_2, etc.
-3) The "double subscript notation" for two independent subscripts. The way we used it was for instance denoting by z_(1,1) by z11, Z_(2,3) by Z23, etc. Something like z30 is to be understood as z_(3,0).
+3) The "double subscript notation" for two independent subscripts. The way we used it was for instance denoting z_(1,1) by z11, Z_(2,3) by Z23, etc. Something like z30 is to be understood as z_(3,0).
 4) What we refer to as alpha, beta, and gamma in our paper are what are denoted in the pdf files by a, b, and g (respectively).
 5) When A is a matrix, Aij is to be understood as A_(i,j) (i.e. the entry of the ith row and jth column).
 6) For a function z of t, the notation dz denotes the derivative of z with respect to t (i.e. "z dot"). This definition is also displayed in the pdf files using the D[map,var] command. 
