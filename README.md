@@ -18,7 +18,7 @@ Below, you will find a list of notations and commands used.
 11) The command(s) A.B, A.B.C, etc. find the "matrix" product of the involved "matrices". One could also invoke vectors, and accordingly this dot command finds the output as a matrix or a vector or a scalar. For instance, u.A.v would return a scalar if u is a 1xn vector, A is an n x m matrix, and v is an m x 1 vector.
 12) The curly brackets define vectors and matrices. For example, {1,2,3} is the vector (1,2,3), and {{1,2},{3,4}} is the matrix with first row (1,2) and second row (3,4).
 13) The Dsolve command solves an ODE or a system of ODE's. More information about this command can be found on the Mathematica website.
-14) The ci and di (along with their conjugagtes Ci and Di) are constants coming from solving ODE's.
+14) The ci and di (along with their conjugates Ci and Di) are constants coming from solving ODE's.
 15) The Collect[expression, var] factorizes and arranges a given "expression" with respect to suitable considerations for "var", for instance according to increasing powers of "var".
 16) The TrigReduce command simplifies a given expression involving trigonometric functions, possibly invoking De Moivre's formula if it makes the expression more compact and reduced.
 17) The % command returns the latest output.
