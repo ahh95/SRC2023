@@ -1,7 +1,10 @@
 # SRC2023
 This repository contains some pdf files extracted from Mathematica, the software which we used to aid our computations in our Mathematics SRC at AUB, 2023. The purpose of uploading these files here is to be able to link them in our submitted paper.
+
 The viewer should note that the computations are not perfectly arranged and that the pdf files show some inputs and outputs that were unneeded or which were missing something and were later on corrected. Also, the notation used is not very standard.
+
 Below, you will find a list of notations and commands used.
+
 1) The "capital letter" notation for complex conjugate. For instance, Z is the complex conjugate of z.
 2) The subscript notation used is the variable/unknown followed by a number. For example, z1 is z_1 (i.e. z with subscript 1), Z2 is Z_2, etc.
 3) The "double subscript notation" for two independent subscripts. The way we used it was for instance denoting by z_(1,1) by z11, Z_(2,3) by Z23, etc. Something like z30 is to be understood as z_(3,0).
