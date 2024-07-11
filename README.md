@@ -13,3 +13,4 @@ Below, you will find a list of notations we were using in our Mathematica comput
 6) For a function z of t, the notation dz denotes the derivative of z with respect to t (i.e. "z dot"). This definition is also displayed in the pdf files using the D[map,var] command. 
 7) The p's are the conjugate momenta.
 8) The ci and di (along with their conjugates Ci and Di) are constants coming from solving ODE's.
+9) At some point, we started substituting a constant c, and we denoted its complex conjugate by k (and we were also substituting k accordingly). We realized, later on, that we only needed c to be a real number. Hence, the k is to be understood as just c. So, something like kc^2 is the same as c^3.
